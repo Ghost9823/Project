@@ -6,7 +6,6 @@ class algebra {
         return sum;
     }
 }
-
 public class Bon {
     public static void main(String[] args) {
         algebra obj = new algebra();
